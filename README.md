@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# ReactnativeProject
+
+This is my first project, and a lot of effort has gone into it.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
