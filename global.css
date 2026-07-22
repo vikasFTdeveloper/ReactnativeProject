@@ -53,7 +53,6 @@
     .tabs-pill {
         @apply size-12 items-center justify-center rounded-full bg-transparent;
     }
-
     .tabs-active {
         @apply bg-accent;
     }
@@ -135,7 +134,7 @@
     }
 
     .upcoming-meta {
-        @apply text-sm font-sans-semibold text-muted-foreground;
+        @apply text-sm font-sans-semibold text-muted-foreground ;
     }
 
     .upcoming-name {
